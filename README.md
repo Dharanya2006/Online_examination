@@ -71,3 +71,6 @@ InvalidExamOperationException
 
 5.Results are stored and displayed
 
+<img width="610" height="756" alt="Screenshot 2026-02-09 190633" src="https://github.com/user-attachments/assets/982565d2-7b46-43c5-952a-15621bffca21" />
+<img width="696" height="636" alt="image" src="https://github.com/user-attachments/assets/ced46b1b-0365-4bc5-a95d-a44cc26d10ce" />
+
